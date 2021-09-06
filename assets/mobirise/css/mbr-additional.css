@@ -5,6 +5,14 @@ body {
   color: #037BC1;
 }
 
+.cid-sk {
+  display: none;
+}
+
+.cid-sk img {
+  margin-top: 80px;
+}
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
@@ -1253,6 +1261,17 @@ a {
     background-color: white;
     background-image: none;
   }
+
+  .cid-sk {
+    display: block;
+  }
+
+  #circulostasa {
+    width: 40% !important;
+  }
+
+
+  width: 40%
   
 }
 .cid-s48P1Icc8J .media-container-row .row-copirayt {
